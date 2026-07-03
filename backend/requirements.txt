@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-groq
+langfuse
+pymongo
+python-dotenv
+python-jose
+httpx
+google-auth
+pydantic
+pydantic-settings
+sse-starlette
